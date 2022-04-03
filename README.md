@@ -21,7 +21,7 @@ Dataset format
 
 # Problem Statement
 
-For this project, i've chosen this dataset citi bike trip new york. This data set is available on [Dataset](https://s3.amazonaws.com/tripdata/index.html) and updated every monthly. The goal was to develop dashboard contain trip summary & user distributin by user type/Gender 
+For this project, i've chosen this dataset citi bike trip new york. This data set is available on [Dataset](https://s3.amazonaws.com/tripdata/index.html) and updated every monthly. The goal was to develop dashboard contain trip summary & user distribution by user type/Gender 
 
 
 # Data Pipeline
