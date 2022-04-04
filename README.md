@@ -37,6 +37,10 @@ Data pipeline used with batch which is run periodically (monthly)
 - Workflow orchestration : Runnning Airflow on container(Docker)
 - Data Warehouse : BigQuery
 
+# Transformation
+
+- Just doing some simple SQL Transformation
+
 # Dashboard
 
 Create dashboard with 3 Tile (1 Bar & 2 Pie) from bike trip dataset year 2020
