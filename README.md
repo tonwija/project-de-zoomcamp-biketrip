@@ -41,6 +41,7 @@ Data pipeline used with batch which is run periodically (monthly)
 
 Create dashboard with 3 Tile (1 Bar & 2 Pie) from bike trip dataset year 2020
 - Summary most popular route taken by gender
-- Distribution by usertype & Gender
+- Distribution by usertype
+- Monthly summary trip
 
 [Dashboard](https://datastudio.google.com/reporting/68030fae-12f6-4840-8f12-ab570cac367e)
